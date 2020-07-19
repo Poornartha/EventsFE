@@ -46,6 +46,7 @@ body {
 	background-color: var(--front);
 	padding: 1em;
 	border-radius: 20px;
+	justify-content: flex-end;
 }
 
 .wide img {
@@ -59,6 +60,9 @@ body {
 
 .wide {
 	margin: 3em;
+	/* border-color: aqua;
+	border-style: solid;
+	border-width: thick; */
 }
 
 .mid {
